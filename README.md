@@ -1,4 +1,4 @@
-🍷 # **Wine Quality Classification**
+🍷 **Wine Quality Classification**
 
 📌 Overview
 
@@ -28,9 +28,15 @@ The dataset contains 1,599 samples of red wine, with 11 numerical features repre
 
 📉 Bar Plot: volatile acidity vs. quality
 
+![Wine Quality](ss1.png)
+
 📈 Bar Plot: citric acid vs. quality
 
+![Wine Quality](ss2.png)
+
 🌡️ Heatmap: Correlation between all features using seaborn.heatmap
+
+![Wine Quality](ss3.png)
 
 
 
